@@ -3,5 +3,5 @@
 ## Integrantes:
 - Daniel Abrilot
 - Fernando Guerrero
-- Andres Mardonez
+- Andres Mardones
 - Ivan Montenegro
